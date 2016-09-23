@@ -1,0 +1,30 @@
+@media screen and (max-width:1225px){
+    .youcebox{
+        display: none;
+    }
+    .youce{
+        background: rgba(0,0,0,0);
+    }
+    .blocks{
+        position: fixed;
+        right: 0;
+        top:100px;
+        background: #000;
+        display: block;
+    }
+    .blocks2{
+        position: fixed;
+        right: 0;
+        bottom:0px;
+        background: #000;
+        display: block;
+    }
+
+}
+
+/*
+@media screen and (min-width: 1225px){
+    .btn11{
+        opacity: 0;
+    }
+}*/
